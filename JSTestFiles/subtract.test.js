@@ -1,4 +1,4 @@
-const subtract = require('./subtract')
+const subtract = require('../JSFiles/subtract')
 
 test('properly subtract two numbers', () => {
 	expect(

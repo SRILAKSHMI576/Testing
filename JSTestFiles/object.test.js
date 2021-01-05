@@ -1,5 +1,5 @@
 const { TestScheduler } = require("jest")
-const objectReturn = require("./object")
+const objectReturn = require("../JSFiles/object")
 
 
 test("object assigned", () => {

@@ -1,4 +1,4 @@
-const sum = require("./sum")
+const sum = require("../JSFiles/sum")
 
 test("properly adds two numbers", () => {
 	expect(

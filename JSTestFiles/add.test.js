@@ -1,5 +1,5 @@
 const { TestScheduler } = require("jest")
-const add = require("./add")
+const add = require("../JSFiles/add")
 
 
 test("addding numbers", () => {
