@@ -11,7 +11,7 @@ test("properly clone array", () => {
 	const array = [1,2,3]
 	expect(
 		cloneArray(array)
-	).toEqual(array)
+	).toEqual(array) //to check equal values used toEqual
 
 	expect(
 		cloneArray(array)
